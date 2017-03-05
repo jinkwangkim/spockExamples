@@ -41,8 +41,7 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-websocket')
 	compile group: 'org.codehaus.groovy', name: 'groovy-all', version: '2.4.9'
 	compile group: 'org.spockframework', name: 'spock-core', version: '1.1-groovy-2.4-rc-3'
-
-
+	compile group: 'com.h2database', name: 'h2', version: '1.4.193'
 
 	runtime('mysql:mysql-connector-java')
 	compileOnly('org.springframework.boot:spring-boot-configuration-processor')
