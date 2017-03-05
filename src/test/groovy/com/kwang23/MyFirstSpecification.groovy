@@ -6,6 +6,7 @@ import spock.lang.Shared
 import spock.lang.Specification
 
 /**
+ * reference - https://github.com/spockframework/spock-example
  * Created by jingwanggim on 2017. 3. 1..
  */
 class MyFirstSpecification extends Specification{
